@@ -1,5 +1,5 @@
 # WhatsApp HTTP API (WAHA)
-
+[![Run on Repl.it](https://replit.com/badge/github/5abaya/whatsapp-http-api.git)](https://replit.com/new/github/5abaya/whatsapp-http-api.git)
 <p align="center">
     <img src="./docs/site/static/images/logo.png" alt="Image" />
 </p>
